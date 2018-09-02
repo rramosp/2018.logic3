@@ -12,16 +12,16 @@
       20/Aug  5   FESTIVO    TALLER	     prep parcial              
       27/Aug  6   TALLER     parcial-1   5 listas generalizadas    TALLERES 1-4, MOOC ENTREGA 1 (lunes 27/ag 11pm)
        3/Sep  7   TALLER     TALLER	     6 árboles, binarios	
-      10/Sep  8   TALLER     TALLER	     7 árboles y búsqueda	
-      17/Sep  9   TALLER     TALLER	     8 grafos	
-      24/Sep  10  TALLER     TALLER	     prep parcial              TALLERES 5-8
-       1/Oct  11  parcial-2  TALLER	     9 algos sobre grafos 1	
-       8/Oct  12  TALLER     TALLER	     10 algos sobre grafos 2	
-      15/Oct  13  FESTIVO    TALLER	     11 divide y venceras	
-      22/Oct  14  TALLER     TALLER	     12 prog dinamica y ávida	
-      29/Oct  15  TALLER     TALLER	     prep parcial              TALLERES 9-12, MOOC ENTREGA FINAL
-       5/Nov  16  FESTIVO    parcial-3		
-      12/Nov					
+      10/Sep  8   TALLER     TALLER	     TALLER
+      17/Sep  8   TALLER     TALLER	     7 árboles y búsqueda	
+      24/Sep  9   TALLER     TALLER	     8 grafos	
+       1/Oct  10  TALLER     TALLER	     prep parcial              TALLERES 5-8
+       8/Oct  11  parcial-2  TALLER	     9 algos sobre grafos 1	
+      15/Oct  12  TALLER     TALLER	     10 algos sobre grafos 2	
+      22/Oct  13  FESTIVO    TALLER	     11 divide y venceras	
+      29/Oct  14  TALLER     TALLER	     12 prog dinamica y ávida	
+       5/Nov  15  TALLER     TALLER	     prep parcial              TALLERES 9-12, MOOC ENTREGA FINAL
+      12/Nov  16  FESTIVO    parcial-3		
 
 **calendario**
 
