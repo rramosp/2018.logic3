@@ -15,8 +15,8 @@
       10/Sep  8   TALLER     TALLER	     TALLER
       17/Sep  8   TALLER     TALLER	     7 árboles y búsqueda	
       24/Sep  9   TALLER     TALLER	     8 grafos	
-       1/Oct  10  TALLER     TALLER	     prep parcial              TALLERES 5-8
-       8/Oct  11  parcial-2  TALLER	     9 algos sobre grafos 1	
+       1/Oct  10  TALLER     TALLER	     prep parcial              TALLERES 5-8 (lunes 8/oct 11pm)
+       8/Oct  11  TALLER     parcial-2	 9 algos sobre grafos 1	
       15/Oct  12  TALLER     TALLER	     10 algos sobre grafos 2	
       22/Oct  13  FESTIVO    TALLER	     11 divide y venceras	
       29/Oct  14  TALLER     TALLER	     12 prog dinamica y ávida	
