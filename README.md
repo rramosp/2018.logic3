@@ -34,8 +34,8 @@
       
 ## Evaluación
 
-- 30% talleres
-- 40% exámenes parciales
+- 40% talleres
+- 30% exámenes parciales
 - 30% MOOC
 
 ## Online Courses (MOOC)
@@ -49,7 +49,7 @@ Tendrás que hacer un informe de tu seguimiento del MOOC. La entregas entregas s
 **Segunda entrega**
 - Un archivo PDF llamado MOOC_completado.pdf donde se incluya la evidencia de la realización del MOOC. Habrá de incluir pantallazos, certificados, informes de progreso que genere la plataforma, etc. 
 - Un directorio llamado MOOC_materiales donde se incluyan los materiales pertinentes (scripts, datos, etc.) que apoyen la evidencia mostrada en el archivo PDF.
-- Un archivo PDF llamado MOOC_vision.pdf donde expliques en qué crees que te puede servir el curso que ha realizado en tu vida profesional. Ha de tener entre 5 y 10 páginas, 12pt, single space.
+- Un archivo PDF llamado MOOC_vision.pdf donde expliques en qué crees que te puede servir el curso que ha realizado en tu vida profesional. Ha de tener entre 2 y 5 páginas, 12pt, single space.
 
 **TODA ENTREGA QUE NO CUMPLA CON ESTAS CONVENCIONES SERÁ CONSIDERADA COMO NO REALIZADA**
 
