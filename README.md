@@ -23,6 +23,11 @@
        5/Nov  15  TALLER     TALLER	     prep parcial              TALLERES 9-12, MOOC ENTREGA FINAL
       12/Nov  16  FESTIVO    parcial-3		
 
+**actualización**
+
+- TALLERES 11 y 12 quedan fuera de la calificación global hasta nuevo aviso
+- el MOOC ha de entregarse el domingo 11/Nov 11pm a lo más tardar
+
 **calendario**
 
       23 Jul           inicio clases
