@@ -26,7 +26,7 @@
 **actualización**
 
 - TALLERES 11 y 12 quedan fuera de la calificación global hasta nuevo aviso
-- el MOOC ha de entregarse el domingo 11/Nov 11pm a lo más tardar
+- los TALLERES 9 y 10 y el MOOC han de entregarse el domingo 11/Nov 11pm a lo más tardar
 
 **calendario**
 
